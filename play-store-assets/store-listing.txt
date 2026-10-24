@@ -1,0 +1,38 @@
+LITTLE KAURI GOOGLE PLAY LISTING DRAFT
+
+App name
+Little Kauri
+
+Short description
+Playful early learning games for phonics, numbers, and school readiness.
+
+Full description
+Play, talk, read and count with Little Kauri, a playful learning companion for children getting ready for school.
+
+Little Kauri offers short activities inspired by the New Zealand Ministry of Education guide First 6 months at school:
+
+• Practise letter sounds with locally stored recordings from the Ministry's Sounds and letters cards.
+• Explore counting, number order, counting backwards, addition, subtraction, patterns, measurement and shapes.
+• Listen to stories, sound out simple words and practise early sight words.
+• Trace letters, numbers and a child's name.
+• Build speaking and listening confidence with questions, instructions and open ended talk prompts.
+• Earn stars, stickers and toys while practising at a child's own pace.
+
+Create separate child profiles on the device. Learning progress stays on that device. Little Kauri has no ads, online accounts, analytics, or in app purchases. Spoken instructions use downloaded voices available on the device. Some voices must be installed in Android text to speech settings before use.
+
+Little Kauri was made for family fun by Hasan for his daughter Manha. It is an independent app and is not an official Ministry of Education app or endorsed by the Ministry.
+
+Suggested category
+Education
+
+Suggested target audience
+Children in the age group appropriate to the actual intended users. Because Little Kauri is designed for a preschool child starting school, review the Play Console age groups carefully. If children are selected, complete the Families policy declarations and use the age groups for which the app is genuinely designed.
+
+Reviewer access instructions
+No sign in is required. On first launch, create a player to open the games. To inspect Parent Corner, return to the player list using Change player, then press and hold the grown ups button for three seconds.
+
+Release notes for version 1.0
+First release of Little Kauri, with offline learning games for the first months at school.
+
+Before submission
+Replace the privacy policy placeholder contact process with a working developer email and publish privacy.html at a public HTTPS URL. Add the public URL to both the store listing and the app's Privacy Policy link. Add at least two genuine screenshots captured from the final Android build.

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 500">
+  <rect width="1024" height="500" fill="#e1f3e6"/>
+  <path d="M0 370c170-68 310 45 480-10s370-60 544 9v131H0z" fill="#fff1d6"/>
+  <path d="M153 138h16v160h-16z" fill="#80543c"/>
+  <path d="M160 36c-23 0-39 14-41 31-20 0-34 15-30 33-17 12-15 33 3 41h136c18-8 20-29 3-41 4-18-10-33-30-33-2-19-18-31-41-31z" fill="#4f9c71" stroke="#245d52" stroke-width="8"/>
+  <path d="M250 222c35-8 73 15 78 49 16 17 14 45-4 61-18 31-53 47-88 49-45 5-91-8-116-38-22-28-16-67 10-91 34-32 94-47 120-30z" fill="#a96845" stroke="#62402f" stroke-width="9"/>
+  <circle cx="302" cy="254" r="7" fill="#fff"/>
+  <circle cx="305" cy="254" r="3.5" fill="#3b302b"/>
+  <path d="M323 260c15 45 25 79 34 125l10-1c-4-50-13-94-28-133z" fill="#ffd166" stroke="#80543c" stroke-width="7"/>
+  <path d="M345 396c-48-24-96-22-137-5v58c43-18 88-16 137 7 49-23 94-25 137-7v-58c-41-17-89-19-137 5z" fill="#fff" stroke="#245d52" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M345 396v60" fill="none" stroke="#12b8a6" stroke-width="8"/>
+  <text x="540" y="205" font-family="sans-serif" font-size="72" font-weight="700" fill="#31564a">Little Kauri</text>
+  <text x="544" y="270" font-family="sans-serif" font-size="32" fill="#31564a">First school steps, made playful</text>
+  <text x="544" y="330" font-family="sans-serif" font-size="26" font-weight="700" fill="#078f7d">Play  ·  Talk  ·  Read  ·  Count</text>
+  <text x="544" y="390" font-family="sans-serif" font-size="22" fill="#5b746b">Learning games for the first months at school</text>
+</svg>
