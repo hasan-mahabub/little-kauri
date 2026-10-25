@@ -1,0 +1,13 @@
+{
+  "name": "Little Kauri",
+  "short_name": "Little Kauri",
+  "description": "Play and learn games for the first 6 months at school. Version 1.0, © 2026 Hasan.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffe0f0",
+  "theme_color": "#ffd6ec",
+  "icons": [
+    { "src": "icon.svg?v=13", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,77 @@
+Letter sound recordings: New Zealand Ministry of Education, "Sounds and letters cards", Sets 1 to 7
+Source: https://www.education.govt.nz/parents-and-caregivers/schools-year-0-13/parent-portal/guide-for-the-new-zealand-curriculum-years-0-to-8/year-1-new-zealand-curriculum/practising-sounds-and-letters-in-year-1
+Crown copyright, licensed CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). Non commercial use only.
+Files were downloaded unmodified from the audio embedded in each set's Google Slides deck and renamed.
+
+Set 1
+  set1/m_mouse.mp3                     M Mouse.mp3
+  set1/a_apple.mp3                     A Apple.mp3
+  set1/d_dog.mp3                       D Dog.mp3
+  set1/p_pot.mp3                       P Pot.mp3
+  set1/o_octopus.mp3                   O Octopus.mp3
+  set1/t_tent.mp3                      T Tent.mp3
+  set1/n_nest.mp3                      N Nest.mp3
+  set1/i_igloo.mp3                     I Igloo.mp3
+  set1/s_sun.mp3                       S Sun.mp3
+Set 2
+  set2/l_lion.mp3                      L Lion.mp3
+  set2/e_egg.mp3                       E Egg.mp3
+  set2/c_cat.mp3                       C Cat.mp3
+  set2/f_fish.mp3                      F Fish.mp3
+  set2/u_umbrella.mp3                  U Umbrella.mp3
+  set2/b_bird.mp3                      B Bird.mp3
+  set2/g_goat.mp3                      G Goat.mp3
+  set2/r_rainbow.mp3                   R Rainbow.mp3
+  set2/h_house.mp3                     H House.mp3
+Set 3
+  set3/k_key.mp3                       K Key.mp3
+  set3/j_jelly.mp3                     J Jelly.mp3
+  set3/v_van.mp3                       V Van.mp3
+  set3/w_watch.mp3                     W Watch.mp3
+  set3/y_yoyo.mp3                      Y Yoyo.mp3
+  set3/z_zip.mp3                       Z Zip.mp3
+  set3/ck_lock.mp3                     CK Lock.mp3
+  set3/th_thumb.mp3                    TH Thumb.mp3
+  set3/ch_chick.mp3                    CH Chick.mp3
+  set3/sh_sheep.mp3                    SH Sheep.mp3
+  set3/ng_wing.mp3                     NG Wing.mp3
+Set 4
+  set4/ff_cliff.mp3                    FF Cliff.mp3
+  set4/ll_gull.mp3                     LL Gull.mp3
+  set4/ss_kiss.mp3                     SS Kiss.mp3
+  set4/zz_buzz.mp3                     ZZ Buzz.mp3
+  set4/x_box.mp3                       X Box.mp3
+  set4/tch_hatch.mp3                   TCH Hatch.mp3
+  set4/qu_queen.mp3                    QU Queen.mp3
+  set4/wh_whistle.mp3                  WH Whistle.mp3
+  set4/dge_badge.mp3                   DGE Badge.mp3
+  set4/cr_crab.mp3                     CR Crab.mp3
+  set4/st_rest.mp3                     ST rest.mp3
+Set 5
+  set5/a_e_wave.mp3                    A_E Wave.mp3
+  set5/e_e_pete.mp3                    E_E Pete.mp3
+  set5/i_e_bike.mp3                    I_E Bike.mp3
+  set5/o_e_rope.mp3                    O_E Rope.mp3
+  set5/u_e_tune.mp3                    U_E Tune.mp3
+  set5/ee_sleep.mp3                    EE Sleep.mp3
+  set5/soft_c_dice.mp3                 Soft C Dice.mp3
+  set5/oo_moon.mp3                     OO Moon.mp3
+  set5/oo_book.mp3                     OO Book.mp3
+  set5/all_ball.mp3                    ALL Ball.mp3
+  set5/ell_bell.mp3                    ELL Bell.mp3
+Set 6
+  set6/ing_jumping.mp3                 ING Jumping.mp3
+  set6/ed_smiled_walked_melted.mp3     ED Smiled-Walked-Melted.mp3
+  set6/s_dogs_runs.mp3                 S Dogs - Runs.mp3
+  set6/es_brushes.mp3                  ES Brushes.mp3
+Set 7
+  set7/ai_rain.mp3                     AI Rain.mp3
+  set7/ay_play.mp3                     AY Play.mp3
+  set7/ea_team.mp3                     EA Team.mp3
+  set7/igh_light.mp3                   IGH Light.mp3
+  set7/ie_pie.mp3                      IE Pie.mp3
+  set7/oa_boat.mp3                     OA Boat.mp3
+  set7/ow_snow.mp3                     OW Snow.mp3
+  set7/oe_toe.mp3                      OE Toe.mp3
+  set7/ew_screw.mp3                    EW Screw.mp3
+  set7/ue_blue.mp3                     UE Blue.mp3
